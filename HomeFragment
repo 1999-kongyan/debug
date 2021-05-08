@@ -175,7 +175,6 @@ public class HomeFragment extends Fragment {
         });
 
 
-
         // 刷新监听。
         mRefreshLayout.setOnRefreshListener(mRefreshListener);
 
